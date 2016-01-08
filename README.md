@@ -1,2 +1,6 @@
-# Flat-Theme
-Trabajo en clase
+# Flat-theme
+Integrantes:
+Gimena Oxa
+Silvana Ybárcena
+Nathaly Lovaton
+
